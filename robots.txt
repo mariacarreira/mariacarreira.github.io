@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://mariacarreira.github.io/al-folio/sitemap.xml
+Sitemap: https://mariacarreira.github.io/blog/sitemap.xml
