@@ -2,11 +2,11 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Maria V. Carreira # the website title (if blank, full name will be used instead)
-first_name: Maria
-middle_name: V.
-last_name: Carreira
-email: mariacar@mit.edu
+title: 'Maria V. Carreira'# the website title (if blank, full name will be used instead)
+first_name: 'Maria'
+middle_name: 'V.'
+last_name: 'Carreira'
+email: 'mariacar@mit.edu'
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
