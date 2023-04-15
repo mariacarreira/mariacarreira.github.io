@@ -3,7 +3,7 @@
 # -----------------------------------------------------------------------------
 
 title: Maria V. Carreira # the website title (if blank, full name will be used instead)
-first_name: Maria
+first_name: 'Maria'
 middle_name: V.
 last_name: Carreira
 email: mariacar@mit.edu
