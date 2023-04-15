@@ -19,4 +19,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! I am a PhD student at Massachusetts Institute of Technology (MIT) in the Department of Biology. I work in the Davis lab and am interested on the applications of deep learning to single-particle cryo-electron microscopy (cryo-EM). 
+Hi! I am a PhD student at Massachusetts Institute of Technology (MIT) in the Department of Biology. I work in the Davis lab and am interested in the applications of deep learning to single-particle cryo-electron microscopy (cryo-EM). 
