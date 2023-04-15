@@ -3,14 +3,14 @@
 # -----------------------------------------------------------------------------
 
 title: Maria V. Carreira # the website title (if blank, full name will be used instead)
-first_name: 'Maria'
+first_name: Maria'
 middle_name: V.
 last_name: Carreira
 email: mariacar@mit.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
 PhD Student at MIT Biology
 footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/io">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: # add your own keywords or leave empty
@@ -120,10 +120,10 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: a simple whitespace theme for academics
-permalink: /blog/:year/:title/
+blog_name: Maria V. Carreira # blog_name will be displayed in your blog page
+blog_nav_title: PhD Student at MIT Biology # your blog must have a title for it to be displayed in the nav bar
+blog_description: Maria's personal blog
+permalink: /blog/:2023/:maria's blog/
 
 # Pagination
 pagination:
