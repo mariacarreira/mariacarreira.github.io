@@ -9,9 +9,9 @@ profile:
   image: #prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 mariacar [at] mit.edu </p>
-    <p>123 Department of Biology </p>
-    <p>Building 68 </p>
+    <p> mariacar [at] mit.edu </p>
+    <p> Department of Biology </p>
+    <p> Building 68 </p>
     <p> 31 Ames Street </p>
     <p> Cambridge, MA </p>
 
