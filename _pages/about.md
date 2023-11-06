@@ -6,7 +6,7 @@ subtitle: <a href='#'>PhD Candidate at MIT </a>/
 
 profile:
   align: right
-  image: #prof_pic.jpg
+  image: /assets/img/profile_photo.jpeg
   image_circular: false # crops the image to make it circular
   address: >
     <p> mariacar [at] mit.edu </p>
