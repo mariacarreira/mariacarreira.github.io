@@ -2,15 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>PhD Candidate at MIT </a>/
+subtitle: <a href='#'>PhD Candidate at MIT </a>
 
 profile:
   align: right
   image: /assets/img/profile_photo.jpeg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   address: >
     <p> mariacar [at] mit.edu </p>
-    <p> Department of Biology </p>
+    <p> MIT Department of Biology </p>
     <p> Building 68 </p>
     <p> 31 Ames Street </p>
     <p> Cambridge, MA </p>
