@@ -7,7 +7,7 @@ subtitle: <a href='#'>PhD Candidate at MIT </a>
 profile:
   align: right
   image: profile_photo.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   address: >
     <p> mariacar [at] mit.edu </p>
     <p> MIT Department of Biology </p>
