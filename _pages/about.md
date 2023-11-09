@@ -22,4 +22,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true includes social icons at the bottom of the page
 ---
 
-Hi! I am a PhD Candidate at Massachusetts Institute of Technology (MIT) in the Department of Biology. I am advised by Joey Davis and am interested in the applications of deep learning to structural biology, particularly single-particle cryo-electron microscopy (cryo-EM). I obtained my BSc in Biochemistry from University College London (UCL).  
+Hi! I am a PhD Candidate at Massachusetts Institute of Technology (MIT) in the Department of Biology. I am advised by Joey Davis and am interested in the applications of deep learning to structural biology, particularly single-particle cryo-electron microscopy (cryo-EM). In 2021, I obtained my BSc in Biochemistry from University College London (UCL).  
