@@ -27,4 +27,4 @@ I have also interned at Tessera Therapeutics, where I worked on modeling the str
 
 In 2021, I obtained my BSc in Biochemistry from University College London (UCL). 
 
-Always happy to chat about protein dynamics, cryo-electron microscopy, and ML! Feel free to reach out at mariacar_at_mit_dot_edu
+You can reach me at mariacar_at_mit_dot_edu - always happy to chat about protein dynamics, cryo-electron microscopy, and ML! 
