@@ -21,9 +21,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true           # includes social icons at the bottom of the page
 ---
 
-Hi! I am a final year PhD Candidate at the Massachusetts Institute of Technology (MIT). I am advised by Joey Davis and am interested in the intersection of generative modeling and dynamic biomolecules. 
-
-My thesis work focuses on developing computational tools to recover and interpret heterogeneity in protein complexes from cryo-electron microscopy reconstructions. 
+Hi! I am a final year PhD Candidate at the Massachusetts Institute of Technology (MIT). I am advised by Joey Davis and am interested in the intersection of generative modeling and dynamic biomolecules. My thesis work focuses on developing computational tools to recover and interpret heterogeneity in protein complexes from cryo-electron microscopy reconstructions. 
 
 I have also interned at Tessera Therapeutics, where I worked on modeling the structure and function of antibody-antigen complexes in silico.
 
