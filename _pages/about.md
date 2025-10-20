@@ -6,7 +6,7 @@ subtitle: "<a href='#'>PhD Candidate at MIT</a>"
 
 profile:
   align: right
-  image: https://github.com/mariacarreira/mariacarreira.github.io/blob/master/assets/img/profile_photo.jpg
+  image: /assets/img/profile_photo.jpg
   image_circular: false
   address: >
     <p>mariacar [at] mit.edu</p>
