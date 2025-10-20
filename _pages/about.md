@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: about
 permalink: /
 subtitle: "<a href='#'>PhD Candidate at MIT</a>"
 
@@ -21,10 +21,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true           # includes social icons at the bottom of the page
 ---
 
-Hi! I am a final year PhD Candidate at the Massachusetts Institute of Technology (MIT). I am advised by Joey Davis and am interested in the intersection of generative modeling and dynamic biomolecules. My thesis work focuses on developing computational tools to recover and interpret heterogeneity in protein complexes from cryo-electron microscopy reconstructions. 
+Hi! I am a final year PhD Candidate at the Massachusetts Institute of Technology (MIT). I am advised by Joey Davis and am interested in the intersection of generative modeling and dynamic biomolecules. My thesis work focuses on developing computational tools to recover and interpret heterogeneity in protein complexes from cryo-electron microscopy reconstructions 🧬
 
 I have also interned at Tessera Therapeutics, where I worked on modeling the structure and function of antibody-antigen complexes in silico.
 
 In 2021, I obtained my BSc in Biochemistry from University College London (UCL). 
 
-🧬 Always happy to chat about protein dynamics, cryo-electron microscopy, and ML 🧬
+Always happy to chat about protein dynamics, cryo-electron microscopy, and ML!
