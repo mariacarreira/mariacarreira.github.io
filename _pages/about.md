@@ -4,16 +4,16 @@ title: about
 permalink: /
 subtitle: "<a href='#'>PhD Candidate at MIT</a>"
 
-profile:
-  align: right
-  image: assets/img/profile_photo.jpg
-  image_circular: false
-  address: >
-    <p>mariacar [at] mit.edu</p>
-    <p>MIT Department of Biology</p>
-    <p>Building 68</p>
-    <p>31 Ames Street</p>
-    <p>Cambridge, MA</p>
+#profile:
+ # align: right
+  #image: assets/img/profile_photo.jpg
+  #image_circular: false
+  #address: >
+  #  <p>mariacar [at] mit.edu</p>
+  #  <p>MIT Department of Biology</p>
+  #  <p>Building 68</p>
+  #  <p>31 Ames Street</p>
+  #  <p>Cambridge, MA</p>
 
 news: false            # includes a list of news items
 latest_posts: false    # includes a list of the newest posts
