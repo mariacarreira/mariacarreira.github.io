@@ -4,16 +4,10 @@ title: about
 permalink: /
 subtitle: "<a href='#'>PhD Candidate at MIT</a>"
 
-#profile:
- # align: right
-  #image: assets/img/profile_photo.jpg
-  #image_circular: false
-  #address: >
-  #  <p>mariacar [at] mit.edu</p>
-  #  <p>MIT Department of Biology</p>
-  #  <p>Building 68</p>
-  #  <p>31 Ames Street</p>
-  #  <p>Cambridge, MA</p>
+profile:
+  align: right
+  image: profile_photo.jpg
+  image_circular: false
 
 news: false            # includes a list of news items
 latest_posts: false    # includes a list of the newest posts
@@ -21,10 +15,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true           # includes social icons at the bottom of the page
 ---
 
-Hi! I am a final year PhD Candidate at the Massachusetts Institute of Technology (MIT). I am advised by Joey Davis and am interested in the intersection of generative modeling and dynamic biomolecules. My thesis work focuses on developing computational tools to recover and interpret heterogeneity in protein complexes from cryo-electron microscopy reconstructions 🧬
+I am a final-year PhD candidate in Biology at the Massachusetts Institute of Technology, advised by Joey Davis. My research develops machine-learning and computational methods for understanding the structure and dynamics of biomolecules, with a particular focus on generative modeling and the recovery of conformational heterogeneity from cryo-electron microscopy data.
 
-I have also interned at Tessera Therapeutics, where I worked on modeling the structure and function of antibody-antigen complexes in silico.
+More broadly, I am interested in building principled, interpretable ML tools that connect structural measurements to biological mechanism. At Tessera Therapeutics, I worked on computational modeling of antibody–antigen structure and function, complementing my doctoral research at the interface of machine learning, structural biology, and biophysics.
 
-In 2021, I obtained my BSc in Biochemistry from University College London (UCL). 
+I received my BSc in Biochemistry from University College London in 2021. I welcome conversations about research collaborations and opportunities in machine learning for biology.
 
-You can reach me at mariacar_at_mit_dot_edu - always happy to chat about protein dynamics, cryo-electron microscopy, and ML! 
+Connect via [email](mailto:mariacar@mit.edu), [GitHub](https://github.com/mariacarreira), [Google Scholar](https://scholar.google.com/citations?user=FbmoM3oAAAAJ), or [LinkedIn](https://www.linkedin.com/in/maria-vicente-carreira-6409a3186/).
