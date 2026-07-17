@@ -7,7 +7,7 @@ subtitle: "<a href='#'>PhD Candidate at MIT</a>"
 profile:
   align: right
   image: profile_photo.jpg
-  image_circular: false
+  image_circular: true
 
 news: false            # includes a list of news items
 latest_posts: false    # includes a list of the newest posts
