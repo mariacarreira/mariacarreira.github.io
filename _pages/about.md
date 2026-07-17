@@ -23,4 +23,4 @@ I received my BSc in Biochemistry from University College London in 2021, where 
 
 Beyond research, I enjoy reading, writing, and traveling!
 
-I am excited about opportunities in ML x Bio and would love to connect and share thoughts! Feel free to reach out via [email](mailto:mariacar@mit.edu), [GitHub](https://github.com/mariacarreira), [Google Scholar](https://scholar.google.com/citations?user=FbmoM3oAAAAJ), or [LinkedIn](https://www.linkedin.com/in/maria-carreira-6409a3186/).
+I am excited about opportunities in ML x Bio and would love to connect and share thoughts! Feel free to reach out via [email](mailto:mariacar@mit.edu).
