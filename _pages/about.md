@@ -21,10 +21,10 @@ Hi! I'm Maria, a final-year PhD candidate at MIT, advised by [Joey Davis](https:
 
 I am interested in building interpretable models that capture the complexity of biological systems. I am currently a PhD Resident at [X, the Moonshot Factory](https://x.company/) (formerly Google X), where I work on foundation models for human health. Previously, I interned at [Tessera Therapeutics](https://www.tesseratherapeutics.com/), a Flagship Pioneering company, where I worked on computational modeling of antibody–antigen structure and function.
 
-I received my BSc in Biochemistry from UCL in 2021, where I conducted research on statistical modeling of microtubule dynamics in cancer cells.
+I received my BSc in Biochemistry from UCL in 2021, where I carried out research on statistical modeling of microtubule dynamics in cancer cells.
 
 Beyond research, I enjoy reading, writing, and traveling.
 
-I am excited about opportunities at the intersection of machine learning and biology and would love to connect. Feel free to reach out via [email](mailto:mariacar@mit.edu), [GitHub](https://github.com/mariacarreira), [Google Scholar](https://scholar.google.com/citations?user=FbmoM3oAAAAJ), or [LinkedIn](https://www.linkedin.com/in/maria-carreira-6409a3186/).
+I am excited about opportunities in ML x Bio and would love to connect and share thoughts! Feel free to reach out via [email](mailto:mariacar@mit.edu).
 
 </div>
