@@ -15,12 +15,16 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true           # includes social icons at the bottom of the page
 ---
 
-Hi! I'm Maria, a final-year PhD Candidate at MIT, advised by [Joey Davis](https://jhdavislab.mit.edu/). I develop and deploy computational methods for understanding the structure and dynamics of biomolecules, with a focus on generative modeling to recover structural heterogeneity from cryo-electron microscopy data. Examples include [SIREn](https://pubmed.ncbi.nlm.nih.gov/39415986/), [multiDRGN](https://pmc.ncbi.nlm.nih.gov/articles/PMC12585762/), and [related work](https://www.biorxiv.org/content/10.64898/2026.05.08.722747v1).
+<div style="text-align: justify;" markdown="1">
 
-I am interested in building interpretable models that capture the complexity of biological systems, which led me to [X, the Moonshot Factory](https://x.company/) (formerly Google X) as a PhD Resident working on foundation models for human health. Previously, I interned at [Tessera Therapeutics](https://www.tesseratherapeutics.com/), a Flagship Pioneering company, where I worked on computational modeling of antibody–antigen structure and function.
+Hi! I'm Maria, a final-year PhD candidate at MIT, advised by [Joey Davis](https://jhdavislab.mit.edu/). I develop and deploy computational methods for understanding the structure and dynamics of biomolecules, with a focus on generative modeling to recover structural heterogeneity from cryo-electron microscopy data. Examples include [SIREn](https://pubmed.ncbi.nlm.nih.gov/39415986/), [multiDRGN](https://pmc.ncbi.nlm.nih.gov/articles/PMC12585762/), and [related work](https://www.biorxiv.org/content/10.64898/2026.05.08.722747v1).
 
-I received my BSc in Biochemistry from University College London in 2021, where I carried out research on statistical modeling of microtubule dynamics in cancer cells.
+I am interested in building interpretable models that capture the complexity of biological systems. I am currently a PhD Resident at [X, the Moonshot Factory](https://x.company/) (formerly Google X), where I work on foundation models for human health. Previously, I interned at [Tessera Therapeutics](https://www.tesseratherapeutics.com/), a Flagship Pioneering company, where I worked on computational modeling of antibody–antigen structure and function.
 
-Beyond research, I enjoy reading, writing, and traveling!
+I received my BSc in Biochemistry from UCL in 2021, where I conducted research on statistical modeling of microtubule dynamics in cancer cells.
 
-I am excited about opportunities in ML x Bio and would love to connect and share thoughts! Feel free to reach out via [email](mailto:mariacar@mit.edu).
+Beyond research, I enjoy reading, writing, and traveling.
+
+I am excited about opportunities at the intersection of machine learning and biology and would love to connect. Feel free to reach out via [email](mailto:mariacar@mit.edu), [GitHub](https://github.com/mariacarreira), [Google Scholar](https://scholar.google.com/citations?user=FbmoM3oAAAAJ), or [LinkedIn](https://www.linkedin.com/in/maria-carreira-6409a3186/).
+
+</div>
