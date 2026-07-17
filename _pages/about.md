@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: "<a href='#'>PhD Candidate at MIT</a>"
+subtitle: PhD Candidate at MIT
 
 profile:
   align: right
@@ -15,8 +15,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true           # includes social icons at the bottom of the page
 ---
 
-<div style="text-align: justify;" markdown="1">
-
 Hi! I'm Maria, a final-year PhD candidate at MIT, advised by [Joey Davis](https://jhdavislab.mit.edu/). I develop and deploy computational methods for understanding the structure and dynamics of biomolecules, with a focus on generative modeling to recover structural heterogeneity from cryo-electron microscopy data. Examples include [SIREn](https://pubmed.ncbi.nlm.nih.gov/39415986/), [multiDRGN](https://pmc.ncbi.nlm.nih.gov/articles/PMC12585762/), and [related work](https://www.biorxiv.org/content/10.64898/2026.05.08.722747v1).
 
 I am interested in building interpretable models that capture the complexity of biological systems. I am currently a PhD Resident at [X, the Moonshot Factory](https://x.company/) (formerly Google X), where I work on foundation models for human health. Previously, I interned at [Tessera Therapeutics](https://www.tesseratherapeutics.com/), a Flagship Pioneering company, where I worked on computational modeling of antibody–antigen structure and function.
@@ -25,6 +23,4 @@ I received my BSc in Biochemistry from UCL in 2021, where I carried out research
 
 Beyond research, I enjoy reading, writing, and traveling.
 
-I am excited about opportunities in ML x Bio and would love to connect and share thoughts! Feel free to reach out via [email](mailto:mariacar@mit.edu).
-
-</div>
+I am excited about opportunities in ML x Bio, and would love to connect and share thoughts. Feel free to reach out via [email](mailto:mariacar@mit.edu).
