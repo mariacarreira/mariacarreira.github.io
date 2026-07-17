@@ -71,14 +71,14 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: mariacarreira
 gitlab_username: # your GitLab user name
-twitter_username: #
+twitter_username:
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: maria-carreira-6409a3186
 telegram_username: # your Telegram user name
 scholar_userid: FbmoM3oAAAAJ&hl=en
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-orcid_id: # 0000-0002-1404-2514
+orcid_id: 0000-0002-1404-2514
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
