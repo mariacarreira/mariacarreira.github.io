@@ -71,9 +71,9 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: mariacarreira
 gitlab_username: # your GitLab user name
-twitter_username: MariaVCarreira
+twitter_username: #
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: maria-vicente-carreira-6409a3186
+linkedin_username: maria-carreira-6409a3186
 telegram_username: # your Telegram user name
 scholar_userid: FbmoM3oAAAAJ&hl=en
 semanticscholar_id: # your Semantic Scholar ID
