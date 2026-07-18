@@ -22,7 +22,7 @@ A computational tool to systematically and quantitatively analyze heterogeneity 
 
 ### Leveraging generative modeling to analyze multiple related cryo-EM datasets
 
-A generative model leveraging the [cryoDRGN framework](https://www.nature.com/articles/s41592-020-01049-4) to jointly reconstruct and analyze heterogeneity across related cryo-EM datasets, including time-resolved datasets. [Abstract](https://pmc.ncbi.nlm.nih.gov/articles/PMC12585762/). Manuscript in preparation.
+A generative model augmenting the [cryoDRGN framework](https://www.nature.com/articles/s41592-020-01049-4) to jointly reconstruct and analyze heterogeneity across related cryo-EM datasets, including time-resolved datasets. [Abstract](https://pmc.ncbi.nlm.nih.gov/articles/PMC12585762/). Manuscript in preparation.
 
 
 </div>
